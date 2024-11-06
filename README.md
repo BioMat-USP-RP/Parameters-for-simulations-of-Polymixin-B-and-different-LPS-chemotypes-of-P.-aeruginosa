@@ -1,1 +1,4 @@
 # Parameters-for-simulations-of-Polymixin-B-and-different-LPS-chemotypes-of-P.-aeruginosa
+
+
+This file contains the topologies and coordinates for Polymixin B and different LPS chemotypes of the Gram-negative bacteria P. aeruginosa, namely, Lipid A, Lipid A modified with 4-amino-4-deoxy-L-arabinose (hexa- and pentaacylated species) and LPS Re (pentaacylated species). The membrane coordinates have been equilibrated for 200 ns. These files are expected to be error-free, but please do check them for errors. If you find any issue please drop us an email. If you make use of the topologies and/or atomic coordinates for you research, please cite: Santos, D. E. S. ; Pol-Fachin, L. ; Lins, R. D. ; Soares, T. A. (2017) Polymyxin Binding to the Bacterial Outer Membrane Reveals Cation Displacement and Increasing Membrane Curvature in Susceptible but not in Resistant LPS Chemotypes. Journal Chem. Inf. and Model. DOI: 10.1021/acs.jcim.7b00271
